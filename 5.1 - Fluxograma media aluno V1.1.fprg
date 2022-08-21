@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Luciano"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-05-17 05:27:15 "/>
+        <attribute name="created" value="THVjaWFubztERVNLVE9QLUlFRTVHNzI7MjAyMi0wNS0xNzsiMDQ6MTI6MzEgIjsyOTIz"/>
+        <attribute name="edited" value="THVjaWFubztERVNLVE9QLUlFRTVHNzI7MjAyMi0wNS0xNzsiMDU6Mjc6MTUgIjszOzMwNDI="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="nota1, nota2, nota3, nota4, media" type="Real" array="False" size=""/>
+            <declare name="nome" type="String" array="False" size=""/>
+            <input variable="nome"/>
+            <input variable="nota1"/>
+            <input variable="nota2"/>
+            <input variable="nota3"/>
+            <input variable="nota4"/>
+            <assign variable="media" expression="(nota1+nota2+nota3+nota4)/4"/>
+            <output expression="&quot;Ol&#225; &quot; &amp; nome &amp; &quot;.&quot; &amp; &quot; Sua m&#233;dia foi: &quot; &amp; media &amp; &quot;.&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
