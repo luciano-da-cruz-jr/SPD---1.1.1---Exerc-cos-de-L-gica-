@@ -1,8 +1,6 @@
 # Bem vindos! Material relacionado ao curso Spread Fullstack Developer fornecido pela Digital Innovation One. (Welcome! Material related to the Spread Fullstack Developer course provided by Digital Innovation One.) 🌎
 
-### SPD-1.3.1-Exercicos-de-Logica (SPD-1.3.1-Logic-Lesson) ⏳🤔😉
-
-### ✏️ Exercícos de lógica de programação e utilização de fluxogramas (Programming logic lessons and use of flowcharts) 📚
+### ✏️ Exercícos de lógica de programação e utilização de fluxogramas (Programming logic lessons and use of flowcharts) 📚⏳🤔😉
 
 Neste repositório contem alguns exercícios de lógica de programação feitos com os softwares Microsoft Excel e o flowgorithm. (This repository contains some programming logic lessons made with the software Microsoft Excel and flowgorithm.)
 
